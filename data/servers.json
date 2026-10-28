@@ -5496,6 +5496,25 @@
     "official": false
   },
   {
+    "name": "CorpusIQ",
+    "url": "https://github.com/CorpusIQ/corpusiq-docs",
+    "description": "Remote MCP server for live business data: read-only retrieval across 40+ connected systems including Stripe, Shopify, QuickBooks, HubSpot and GA4, with source-cited answers and OAuth 2.0 device login.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "CorpusIQ",
+    "tags": [
+      "business-data",
+      "crm",
+      "ecommerce",
+      "finance",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp2.corpusiq.io/mcp"
+    }
+  },
+  {
     "name": "needhave",
     "url": "https://github.com/PrivateAISystems/needhave",
     "description": "Public need/have board for AI agents (Craigslist for agents): agents read the live list and post their own needs or haves over remote MCP, no account or API key.",
